@@ -1,0 +1,58 @@
+# =========================
+
+# UNITY GENERATED (WAJIB IGNORE)
+
+# =========================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =========================
+
+# IDE (Visual Studio / VSCode / Rider)
+
+# =========================
+
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+
+# =========================
+
+# OS FILES
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# BUILD FILES
+
+# =========================
+
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+
+# =========================
+
+# LOGS
+
+# =========================
+
+*.log
